@@ -66,6 +66,7 @@ text-align: center;
     margin: auto;
 }
 .box-text{
+     border-radius: 5px;
     font-family: 'Rubik', sans-serif;
     border: black solid 2px;
     width:280px;
